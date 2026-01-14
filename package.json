@@ -1,0 +1,15 @@
+{
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "prod": "vite build"
+  },
+  "devDependencies": {
+    "vite": "^7.3.1"
+  },
+  "dependencies": {
+    "@inertiajs/react": "^2.3.8",
+    "react": "^19.2.3",
+    "react-dom": "^19.2.3"
+  }
+}
